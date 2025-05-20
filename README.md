@@ -22,7 +22,6 @@
 [macos_build_svg]: https://github.com/ERGO-Code/HiGHS/actions/workflows/build-macos.yml/badge.svg
 [macos_build_link]: https://github.com/ERGO-Code/HiGHS/actions/workflows/build-macos.yml
 [windows_build_svg]: https://github.com/ERGO-Code/HiGHS/actions/workflows/build-windows.yml/badge.svg
-[windows_build_link]: https://github.com/ERGO-Code/HiGHS/actions/workflows/build-windows.yml
 
 - [About HiGHS](#about-highs)
 - [Documentation](#documentation)
